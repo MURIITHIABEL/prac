@@ -2,7 +2,11 @@
 function App() {
   return (
     <div className="App">
-     <h5 id="moja">abel-updated in abel branch</h5>
+<<<<<<< abel
+     <h5 id="moja">abel-updated on main branch</h5>
+=======
+     <h5 id="moja">abel - updated on main branch</h5>
+>>>>>>> main
      <p id="three">Muriithi</p>
      <p id="three">Mugambi</p>
     </div>
